@@ -16,6 +16,6 @@ public class Main {
     //p.addTakeaway();
     System.out.println(p.getBill());
 
-    System.out.println("Hello");
+    System.out.println("Hello")
   }
 }
